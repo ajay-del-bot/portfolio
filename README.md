@@ -87,12 +87,10 @@ Experienced **Data Engineer** with expertise in **software development, data ana
 
 ## 📜 Certifications  
 
-- **Distributed Computing with Spark**  
-- **SQL**  
+- **Distributed Computing with Spark**
 - **The Data Scientist’s Toolbox**  
 - **Google Cloud Big Data and Machine Learning Fundamentals**  
 - **Generative AI and LLMs: Architecture and Data Preparation**  
-- **Perform Sentiment Analysis with scikit-learn**  
 
 ---
 
