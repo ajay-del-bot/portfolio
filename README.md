@@ -1,6 +1,6 @@
 # Ajay Rao  
 
-**CS Grad at UIUC | Data Engineer | Software Developer**  
+**CS Grad at UIUC** **|** **Data Engineer** **|** **Software Developer**  
 
 📍 Urbana, IL  
 📧 [aarao3@illinois.edu](mailto:aarao3@illinois.edu)  
@@ -103,20 +103,9 @@ Experienced **Data Engineer** with expertise in **software development, data ana
 ---
 
 ## 🎯 Extra-Curricular Activities  
-
-- 🏆 **Heros (Sept’23) and Kudos (Apr’23) awards** for delivering impactful data projects at **Bajaj Finserv**.  
+ 
 - 👨‍💻 **Kaggle Contributor:** [Kaggle Profile](https://www.kaggle.com/ajayraora)  
 - 🎤 **Organized & Conducted the Annual Quiz Event** at **Credenz’19 (College Fest)**.  
 - 🎯 **Part of the organizing team for Impetus & Concepts (InC)’19**, an **Annual Project Competition**.  
-
----
-
-## 📫 Contact  
-
-📧 [aarao3@illinois.edu](mailto:aarao3@illinois.edu)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ajay-rao-613b1016a)  
-🔗 [GitHub](https://github.com/ajay-del-bot)  
-🔗 [Kaggle](https://www.kaggle.com/ajayraora)  
-🔗 [Tableau Profile](https://public.tableau.com/app/profile/ajay.rao8652/vizzes)  
 
 ---
