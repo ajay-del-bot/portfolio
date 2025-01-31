@@ -1,6 +1,6 @@
 # Ajay Rao  
 
-**CS Grad at UIUC** **|** **Data Engineer** **|** **Software Developer**  
+**CS Grad at UIUC** 
 
 📍 Urbana, IL  
 📧 [aarao3@illinois.edu](mailto:aarao3@illinois.edu)  
